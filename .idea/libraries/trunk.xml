@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="trunk">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/com/xkmanabu/trunk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
